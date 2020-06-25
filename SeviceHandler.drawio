@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-25T19:24:55.859Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="sGToJUqZBnF67rTd59vm" version="13.3.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-06-25T19:36:43.207Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="QIZ22M8B9pyEndaOetfH" version="13.3.4" type="github" pages="2">
   <diagram id="BKTEssdF6qr65OEh8YFK" name="Page-1">
     <mxGraphModel dx="2212" dy="1290" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="1">
       <root>
@@ -667,6 +667,18 @@
         </mxCell>
         <mxCell id="YRMGGNUvjd1UCv-VyneW-171" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;rounded=1;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="1365" y="920" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YRMGGNUvjd1UCv-VyneW-173" value="Flow purchase" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="467" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YRMGGNUvjd1UCv-VyneW-174" value="User case" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="35" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YRMGGNUvjd1UCv-VyneW-175" value="Activity Response" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="535" y="430" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YRMGGNUvjd1UCv-VyneW-176" value="Flow Blade Component" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="1060" width="140" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
