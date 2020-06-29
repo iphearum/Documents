@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-29T04:23:09.306Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="rNJ4f04xWJsW_8NSwM5E" version="13.3.4" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2020-06-29T04:26:11.649Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="RV66iDNqDnIQYwAs6JF1" version="13.3.4" type="github" pages="5">
   <diagram id="BKTEssdF6qr65OEh8YFK" name="Page-1">
     <mxGraphModel dx="1106" dy="645" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="1">
       <root>
@@ -1460,6 +1460,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="330" y="236" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="BvgxD_FkO251g8TYgaa7-0" value="workflow include blade with variable" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=11;" vertex="1" parent="gXN9xdJizREexkyW3Ieg-1">
+          <mxGeometry x="35" y="27" width="184" height="16" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
