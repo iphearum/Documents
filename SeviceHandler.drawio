@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-03T05:45:08.566Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="cke9k-IXW26z4in5lfGk" version="13.3.5" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2020-07-03T05:52:06.067Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="8umMGNLrv6J5KMu3jEs6" version="13.3.5" type="github" pages="5">
   <diagram id="BKTEssdF6qr65OEh8YFK" name="Page-1">
     <mxGraphModel dx="1106" dy="645" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="1">
       <root>
@@ -323,8 +323,8 @@
         <mxCell id="YRMGGNUvjd1UCv-VyneW-175" value="Activity Response" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="618" y="430" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="YRMGGNUvjd1UCv-VyneW-176" value="Workflow Blade Component" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="134" y="1062" width="159" height="17" as="geometry" />
+        <mxCell id="YRMGGNUvjd1UCv-VyneW-176" value="Workflow blade with variable request " style="text;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;html=1;" parent="1" vertex="1">
+          <mxGeometry x="113.94" y="1060" width="209" height="17" as="geometry" />
         </mxCell>
         <mxCell id="lP2rzMahKyLGZ5AvL-rd-1" value="Event data" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="427" y="258" width="68" height="17" as="geometry" />
