@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-10T08:31:29.260Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="LwOB8a_45lzR_AaJPW-O" version="13.4.1" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2020-07-10T08:31:49.914Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="fg5cdFysJYxd3i2FuWA6" version="13.4.1" type="github" pages="6">
   <diagram id="BKTEssdF6qr65OEh8YFK" name="Page-1">
     <mxGraphModel dx="1106" dy="645" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="1">
       <root>
@@ -1588,7 +1588,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2PMk2JwltxCNIqEak06a-39" value="process store" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="tYY7N3aZYvRpicB4zKkM-1">
-          <mxGeometry x="571.25" y="390" width="95" height="60" as="geometry" />
+          <mxGeometry x="571.25" y="390" width="108.75" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2PMk2JwltxCNIqEak06a-42" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.summing_function;" vertex="1" parent="tYY7N3aZYvRpicB4zKkM-1">
           <mxGeometry x="598.75" y="480" width="40" height="40" as="geometry" />
